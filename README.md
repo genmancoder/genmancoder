@@ -6,7 +6,7 @@ Feel free to reach out in case you want to just get in touch also.
 
 
 - 🔭 I’m currently working on E-Commerce Users Tracking and Integration, Shopify Apps and Custom Web Apps.
-- 🌱 I’m currently learning Python, TypeScript and another ReactJS Frameworks.
+- 🌱 I’m currently learning Python, TypeScript and other ReactJS Frameworks.
 - 👯 I’m looking to collaborate on basic apps for students.
 
 - 📫 How to reach me: ...
