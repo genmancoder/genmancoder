@@ -30,5 +30,6 @@ Here are some ideas to get you started:
 ### What I'm focusing on :computer:
 Currently improving my ReactJS Skills: NextJS, Gatsby JS, Typescript, NodeJS.
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=genmancoder)](https://github.com/anuraghazra/github-readme-stats)
+My GitHub stats:
+ 
+[![Genman's GitHub stats](https://github-readme-stats.vercel.app/api?username=genmancoder)](https://github.com/anuraghazra/github-readme-stats)
