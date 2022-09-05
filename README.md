@@ -32,4 +32,4 @@ Currently improving my ReactJS Skills: NextJS, Gatsby JS, Typescript, NodeJS.
 
 My GitHub stats:
  
-[![Genman's GitHub stats](https://github-readme-stats.vercel.app/api?username=genmancoder)](https://github.com/anuraghazra/github-readme-stats)
+[![Genman's GitHub stats](https://github-readme-stats.vercel.app/api?username=genmancoder&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
