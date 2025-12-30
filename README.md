@@ -11,7 +11,7 @@ Feel free to reach out in case you want to just get in touch also.
 
 - 📫 How to reach me: ...
 
-- ⚡ Tech Stacks: PHP, Javascript, jQuery, ReactJS, CSS, HTML, Bootstrap, MaterialUI, TailwindCSS, NodeJS
+- ⚡ Tech Stacks: NextJS, PHP, Javascript, jQuery, ReactJS, CSS, HTML, Bootstrap, MaterialUI, TailwindCSS, NodeJS
 - Others: Java, JavaFX, Wordpress, Python
 <!--
 **genmancoder/genmancoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
